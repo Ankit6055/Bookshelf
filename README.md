@@ -4,13 +4,13 @@ A responsive and interactive web application for browsing and managing a collect
 
 ## 📱 Application Interface
 
-![Bookshelf Application](./Assests/01.png)
+![Bookshelf Application](./Assets/01.png)
 
-![Bookshelf Application](./Assests/02.png)
+![Bookshelf Application](./Assets/02.png)
 
-![Bookshelf Application](./Assests/03.png)
+![Bookshelf Application](./Assets/03.png)
 
-![Bookshelf Application](./Assests/04.png)
+![Bookshelf Application](./Assets/04.png)
 
 ## 🌐 Live Demo
 [View Live Application](https://bookshelf-pi-five.vercel.app/)
